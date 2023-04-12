@@ -10,7 +10,6 @@ namespace Funkcii
         {
             InitializeComponent();
         }
-
         private void CubParBtn(object sender, EventArgs e)
         {
             Graphics graphics = pictureBox1.CreateGraphics();
